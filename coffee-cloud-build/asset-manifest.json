@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a5945aa.chunk.css",
+    "main.js": "/static/js/main.4cb007de.chunk.js",
+    "main.js.map": "/static/js/main.4cb007de.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.058be384.js",
+    "runtime-main.js.map": "/static/js/runtime-main.058be384.js.map",
+    "static/js/2.ef62726e.chunk.js": "/static/js/2.ef62726e.chunk.js",
+    "static/js/2.ef62726e.chunk.js.map": "/static/js/2.ef62726e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0a5945aa.chunk.css.map": "/static/css/main.0a5945aa.chunk.css.map",
+    "static/js/2.ef62726e.chunk.js.LICENSE.txt": "/static/js/2.ef62726e.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Lato-Regular.9919edff.ttf",
+    "static/media/cloud_banner.2c35d1fb.png": "/static/media/cloud_banner.2c35d1fb.png",
+    "static/media/data_center_banner.6f0b04db.png": "/static/media/data_center_banner.6f0b04db.png",
+    "static/media/home_about_banner.6227f0f8.png": "/static/media/home_about_banner.6227f0f8.png",
+    "static/media/index.scss": "/static/media/home_banner.0232f19f.png",
+    "static/media/hosting_plan_background.9a139fc5.png": "/static/media/hosting_plan_background.9a139fc5.png",
+    "static/media/software_banner.f052ddc6.png": "/static/media/software_banner.f052ddc6.png",
+    "static/media/web_banner.243f72eb.png": "/static/media/web_banner.243f72eb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.058be384.js",
+    "static/js/2.ef62726e.chunk.js",
+    "static/css/main.0a5945aa.chunk.css",
+    "static/js/main.4cb007de.chunk.js"
+  ]
+}
